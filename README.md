@@ -2,7 +2,7 @@
 
 ## Overview
 
-EciVision is a 3D environmental awareness project developed using Blender. The project demonstrates the gradual transformation of a clean, green park into a polluted environment, highlighting the negative impact of pollution on nature and public spaces.
+EcoVision is a 3D environmental awareness project developed using Blender. The project demonstrates the gradual transformation of a clean, green park into a polluted environment, highlighting the negative impact of pollution on nature and public spaces.
 
 Through realistic 3D modeling, animation, lighting transitions, and visual storytelling, the project aims to educate viewers about environmental conservation and encourage responsible waste management practices.
 
